@@ -11,14 +11,13 @@
   <div class="grid-container">
       <header class="grid-item header"><h1>English Wonderland</h1></header>
       <nav class="grid-item nav">
-        <ul class="menu">
-          <li><a href="index.html">Home</a></li>
-           <li><a href="wordscramble.html">WordScramble</a></li>
-            <li><a href="grammar.html">Practice Grammar</a></li>
-           <li><a href="shortstories.html">Short Stories</a></li>
-           <li><a href="feedback.php">Feedback</a></li>
-           <li><a href="about.html">About</a></li>
-        </ul>
+       <ul class="menu">
+                        <li><a href="../index.html">Home</a></li>
+                         <li><a href="blog.html">Blog</a></li>
+                         <li><a href="portfolio.html">What I can do?</a></li>
+                         <li><a href="contact.php">Contact Me!</a></li>
+                         <li><a href="about.html">About</a></li>
+                     </ul>
       </nav>
 
     <?php
@@ -74,7 +73,7 @@
 
 
   <footer class="grid-item footer">
-            <h3>Where Learning is Fun!</h3>
+        <h3>Chezza Bomediano - 2025</h3>
   </footer>
 
   </div>
